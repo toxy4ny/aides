@@ -27,7 +27,7 @@ An attacker can brute-force the parameter and harvest sensitive PDFs/DOCX stored
 ### 2.1 Python async scanner  
 ```python
 # PoC: find valid ids and log working URLs
-# ⋯ full code omitted – see asyn_brutefile.py in repo
+# ⋯ full code omitted – see aides.py in repo
 
 2.2 Result sample
 https://target/…/GetFile.aspx?id=32978   BoardMinutes_StaffCuts.pdf
